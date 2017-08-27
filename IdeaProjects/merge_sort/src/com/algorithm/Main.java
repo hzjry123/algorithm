@@ -56,6 +56,6 @@ public class Main {
              ) {
             System.out.print(element + " ");
         }
-        System.out.println("fuck youuuuuuuuu");
+        System.out.println("fuckyousb");
     }
 }
